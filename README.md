@@ -2,8 +2,7 @@ DemoForLayerMask
 ================
 Rendering
 
-![Mou icon](https://raw.githubusercontent.com/ipoolo/DemoForLayerMask/master/layerMask.jpg]
-DemoForLayerMask)
+![Mou icon](https://raw.githubusercontent.com/ipoolo/DemoForLayerMask/master/layerMask.jpg)
 
 MaskImg
 
